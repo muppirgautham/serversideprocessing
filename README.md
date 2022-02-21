@@ -26,7 +26,7 @@ In the html document design the page as required for getting the input values fo
 
 
 ### Step 6:
-Publish the website in the given URL.
+Publish the website in the given URL: http://muppirgautham.student.saveetha.in:8000
 
 
 ## PROGRAM :
@@ -74,7 +74,7 @@ Publish the website in the given URL.
         <br>
         <br>
         <footer>
-            Developed by:Gautham M G
+            Developed by: Gautham M G
         </footer>
     </div>
 </body>
@@ -113,6 +113,8 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
+![WhatsApp Image 2022-02-21 at 12 30 48](https://user-images.githubusercontent.com/94810884/154895007-ce3cfe7c-bc9e-4c8e-bc8d-2625041498a7.jpeg)
+
 
 
 ## Result:
